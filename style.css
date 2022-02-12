@@ -58,7 +58,7 @@ html {
     margin-left: auto;
     margin-right: auto;
     border-bottom: #333 1px solid;
-    padding-bottom: 5px;
+    /* padding-bottom: 5px; */
 }
 #nav-list {
     display: flex;
@@ -211,7 +211,7 @@ html {
     width: 100px;
     height: 100px;
     float: left;
-    padding: 0px 5px 0px 0px;
+    padding: 5px;
     border-radius: 5px;
 }
 .product-price-section-4 {
@@ -274,6 +274,7 @@ html {
 .img-content-box {
     text-align: center;
     width: 283px;
+    margin-bottom: 10px;
 }
 /*-----section-5-end-----*/
 /*-----main content end-----*/
